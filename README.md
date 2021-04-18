@@ -42,7 +42,7 @@ Predict Backorders as part of Lab Based Project for MIN-300
 - Data is highly imbalanced
     - We hardly have any information of products that went on backorder
 
-#### Questions to answers using EDA
+### Questions to answers using EDA
 
 - Most popular products (top - 10)
 - Predicted sales for these products 
